@@ -1,0 +1,21 @@
+# Entrega: Optimización de Sitio Web con IA - Dechill
+
+Este proyecto consiste en la mejora, optimización y agregado de interactividad para la tienda de indumentaria personalizada *Dechill*, cumpliendo con las pautas de diseño web semántico y buenas prácticas de maquetación de la materia.
+
+##  Mejoras realizadas con Inteligencia Artificial 
+Se utilizó asistencia de IA para auditar el código original y aplicar las siguientes optimizaciones:
+
+* *Estructura HTML Semántica*: Reemplazo de divs genéricos por etiquetas estructurales como <header>, <nav>, <main> y <footer> para mejorar la accesibilidad y los estándares web.
+* *Refactorización de CSS*: Limpieza de selectores, corrección de errores críticos de sintaxis (como el reseteo universal * y las comas divisorias) y eliminación de estilos por defecto del navegador (list-style: none forzado).
+* *Diseño Fluido en Escritorio*: Reemplazo de dimensiones y márgenes duros fijos en píxeles por propiedades flexibles con Flexbox y límites con max-width para evitar desbordes en computadoras.
+* *Uso de Clases en Inglés*: Normalización completa de las clases de CSS al idioma inglés (ej. .main-header, .search-bar, .user-menu, .cta-button) cumpliendo las buenas prácticas de la industria.
+
+##  Interacciones con JavaScript 
+
+Se programaron tres interacciones dinámicas nativas que le aportan valor comercial a la web:
+1. *Buscador interactivo*: Escucha el evento de la tecla Enter, procesa el campo de texto y devuelve una respuesta simulada al usuario.
+2. *Contador de Carrito*: Suma dinámicamente un contador en la barra de usuario en tiempo real cada vez que se presiona el botón principal de llamado a la acción (CTA).
+3. *Efecto de Scroll en Header*: El encabezado se mantiene fijo (sticky) y genera una sombra visual dinámica al hacer scroll hacia abajo, mejorando la navegación del usuario.
+cs
+
+Avila Julieta
