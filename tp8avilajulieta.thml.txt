@@ -17,5 +17,5 @@ Se programaron tres interacciones dinámicas nativas que le aportan valor comerc
 2. *Contador de Carrito*: Suma dinámicamente un contador en la barra de usuario en tiempo real cada vez que se presiona el botón principal de llamado a la acción (CTA).
 3. *Efecto de Scroll en Header*: El encabezado se mantiene fijo (sticky) y genera una sombra visual dinámica al hacer scroll hacia abajo, mejorando la navegación del usuario.
 cs
-
+Reflexión final: La IA me resultó muy útil para aplicar el java scrip, anteriormente lo había utilizado pero esta vez le pedí sugerencias de funciones distintas para agregar cosas nuevas, si bien son simples creo que ayudan a complementar la pagina que había realizado. También me resultó útil para acomodar la estructura antigua de css. En un principio puede resultar dificil que entienda los prompts que le brindas pero cuando desarrollas una conversacion más fluida finalmente termina entendiendo. Utilice Gemini.
 Avila Julieta
